@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+    <script src="js/jquery-3.5.1.js"></script>
+    <script src="js/scripts.js"></script>
+    <title>Movie Tickets</title>
+  </head>
+  <body>
+    <h1>Moive Theatre!!</h1>
+    <! Select 1- Name of Movie, 2 - Time of Day/Matinee, 3 - Senior/Age>
+    <form id = "movieForm">
+      <label>Select the movie you wold like to see: </label>
+      <select class = "form-control" id = "nameOfMovie">
+        <option> Avengers: Infinity War</option>
+        <option> Invisible Man </option>
+        <option> Avengers: End Game</option>
+        <option> Remember the Titans</option> 
+      </select>
+      <label> Select the time:</label>
+      <select class = "form-control" id = "Matinee">
+        <option>Before 5PM</option>
+        <option>After 5PM</option>
+      </select>
+      <label>Select the type of ticket you would like: </label>
+      <select class = "form-control" id = "Senior Discount">
+        <option> Senior Ticket</option>
+        <option> Regular Ticket </option> 
+      </select>
+      <button type = "submit" class = "btn">Show Me the Price</button>
+    </form>
+  </body>
+</html>

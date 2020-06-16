@@ -1,12 +1,12 @@
 # _Movie Tickets_
 
-#### _{Brief description of application}, 06/16/2020_
+#### _A webpage that calculates movie ticket cost, 06/16/2020_
 
 #### By _**Jason Khan and Teresa Rosinski**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage lets users select a movie, a time and an age and then lets them know the cost of their ticket_
 
 ## Setup/Installation Requirements
 
@@ -28,7 +28,6 @@ Open via Bash/GitBash:
 
 #### To see my live website go to {GH_PAGES_LINK_HERE}!
 
-
 ## Known Bugs
 
 _No known bugs_
@@ -48,4 +47,4 @@ _Please reach out through my GitHub account._
 
 MIT License.
 
-Copyright (c) 2020 **_Jason Khan_**
+Copyright (c) 2020 **_Jason Khan and Teresa Rosinski_**
