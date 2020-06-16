@@ -2,7 +2,7 @@
 
 #### _{Brief description of application}, 06/16/2020_
 
-#### By _**Jason Khan**_
+#### By _**Jason Khan and Teresa**_
 
 ## Description
 
